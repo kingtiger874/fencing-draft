@@ -8,7 +8,7 @@ const projects: Project[] = [
     id: '1',
     title: 'Modern Privacy Fence',
     description: 'Custom-designed horizontal cedar fence with black metal accents',
-    imageUrl: 'https://images.unsplash.com/photo-1621274403997-37aace184f49?auto=format&fit=crop&q=80',
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1676430686994-4f5f1bd41acb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     material: 'Wood',
     location: 'Austin, TX',
     completionDate: '2024'
@@ -17,7 +17,7 @@ const projects: Project[] = [
     id: '2',
     title: 'Classic Wrought Iron',
     description: 'Elegant wrought iron fence with decorative finials',
-    imageUrl: 'https://images.unsplash.com/photo-1567364619539-a035880c0174?auto=format&fit=crop&q=80',
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1670682102912-33ef2588af84?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     material: 'Metal',
     location: 'Dallas, TX',
     completionDate: '2024'
@@ -26,7 +26,7 @@ const projects: Project[] = [
     id: '3',
     title: 'Contemporary Vinyl',
     description: 'Low-maintenance white vinyl fence with modern post caps',
-    imageUrl: 'https://images.unsplash.com/photo-1621274147744-cfb5307888d5?auto=format&fit=crop&q=80',
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1678172259118-4efa9eb49e0e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     material: 'Vinyl',
     location: 'Houston, TX',
     completionDate: '2024'

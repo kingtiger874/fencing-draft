@@ -9,7 +9,7 @@ const blogPosts = [
     excerpt: 'A comprehensive guide to selecting the perfect fence material for your property...',
     author: 'John Smith',
     date: 'March 15, 2024',
-    imageUrl: 'https://images.unsplash.com/photo-1621274403997-37aace184f49?auto=format&fit=crop&q=80'
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1675630925589-5023afed40d1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const blogPosts = [
     excerpt: 'Learn how to keep your wooden fence looking beautiful and lasting longer with these maintenance tips...',
     author: 'Sarah Johnson',
     date: 'March 10, 2024',
-    imageUrl: 'https://images.unsplash.com/photo-1595878715977-2e4a09a780c7?auto=format&fit=crop&q=80'
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1667870036406-631ee715b494?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 ];
 
