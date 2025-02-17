@@ -8,6 +8,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import FenceDesigner from './components/FenceDesigner';
+import Designer from './components/Designer';
 import Portfolio from './components/Portfolio';
 import QuoteForm from './components/QuoteForm';
 import Contact from './components/Contact';
@@ -74,7 +75,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/design" element={<FenceDesigner />} />
+          <Route path="/design" element={<Designer />} />
           <Route path="/quote" element={<QuoteForm />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/blog" element={<Blog />} />
