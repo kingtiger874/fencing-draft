@@ -59,7 +59,7 @@ function ControlPanel({ design, onChange }: ControlPanelProps) {
           <input
             type="range"
             min="3"
-            max="8"
+            max="14"
             step="0.5"
             value={design.height}
             onChange={(e) => onChange({ ...design, height: Number(e.target.value) })}
